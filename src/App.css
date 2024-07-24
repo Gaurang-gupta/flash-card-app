@@ -1,0 +1,29 @@
+.background {
+    background-color: #8fd3f4;
+}
+
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.app {
+    text-align: center;
+}
+
+
+.nextButton{
+    background-color: #114031;
+    /* margin-top: 20px; */
+    padding: 10px 40px;
+    font-size: 1.5em;
+    border-radius: 40px;
+    color: white;
+}
+
+.nextButton:hover{
+    background-color: #136249;
+}
