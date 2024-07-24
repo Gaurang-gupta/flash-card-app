@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AddQuestions from "./Components/AddQuestions/AddQuestions";
 import Questions from "./Components/Questions/Questions";
 import Login from "./Components/Login/Login"
+import Practice from "./Components/Practice/Practice";
 
 function App() {
 
